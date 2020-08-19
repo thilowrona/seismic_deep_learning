@@ -8,7 +8,8 @@ One of the easiest ways of getting started is to use Colab, where most of the th
 ### Colab ###
 1. First, you need sign in to your Google account. If you're not signed in, you can sign in [here](https://myaccount.google.com/?utm_source=sign_in_no_continue)
 
-2. Next, head on to the [Colab Welcome Page](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Now, you should see a page looking like this:! [alt text](https://github.com/thilowrona/seismic_deep_learning/s1.png)
+2. Next, head on to the [Colab Welcome Page](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Now, you should see a page looking like this:
+![alt text](https://github.com/thilowrona/seismic_deep_learning/blob/master/s1.png)
 
 
 
