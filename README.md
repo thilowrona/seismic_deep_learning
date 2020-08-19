@@ -22,7 +22,7 @@ One of the easiest ways of getting started is to use Colab, where most of the th
 ```console
  !curl -s https://course.fast.ai/setup/colab | bash
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and runnign the cell (i.e. clicking the play symbol or pressing `Ctrl+Enter`).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and runnign the cell (i.e. clicking the play symbol or pressing `Ctrl+Enter`).
 
 2. 
 
