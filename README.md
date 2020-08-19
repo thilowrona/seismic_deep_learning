@@ -18,13 +18,13 @@ One of the easiest ways of getting started is to use Colab, where most of the th
 
 
 ### Notebook ###
-1. Before using your notebook, you need to install the necessary packages. You can do this by creating a code cell (i.e. clicking ´+ code´ in top left corner), entering this command:
+1. Before using your notebook, you need to install the necessary packages. You can do this by creating a code cell (i.e. clicking ´+ code´ in top left corner), running this command:
 ```console
  !curl -s https://course.fast.ai/setup/colab | bash
 ```
-   and runnign the cell (i.e. clicking the play symbol or pressing `Ctrl+Enter`).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and runnign the cell (i.e. clicking the play symbol or pressing `Ctrl+Enter`).
 
-
+2. 
 
 
 
