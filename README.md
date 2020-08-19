@@ -34,7 +34,7 @@ One of the easiest ways of getting started is to use Colab, where most of the th
 
 ![alt text](https://github.com/thilowrona/seismic_deep_learning/blob/master/s2.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and click on the ´Mount Drive´ icon in the top right corner. After clicking the button you’ll be asked to authorize Colaboratory to access your &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Google Drive. Once you do, your notebook will automatically mount that drive whenever the runtime is loaded, and the sidebar will show the contents of your drive. Accessing data on your drive is then simply a matter of pointing at the right path. Add the following code snippet at the beginning of every notebook:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and click on the ´Mount Drive´ icon in the top right corner. After clicking the button you’ll be asked to authorize Colaboratory to access your Google Drive. Once you do, your notebook will automatically mount that drive whenever the runtime is loaded, and the sidebar will show the contents of your drive. Accessing data on your drive is then simply a matter of pointing at the right path. Add the following code snippet at the beginning of every notebook:
 ```console
 root_dir = "drive/My Drive/"
 base_dir = root_dir + 'fastai-v3/'
