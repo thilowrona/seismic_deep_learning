@@ -1,6 +1,6 @@
 # Deep learning of geological structures from seismic reflection data
 
-Here we share a series of workflows developed to interpret different geological structures in seismic reflection data using deep convolutional neural networks.
+Here we share code, tutorials and examples showing how to interpret geological structures (e.g. faults, salt bodies and horizones) in 2-D and/or 3-D seismic reflection data using deep learning.
 
 ## Setup
 1. Install **Python 3**
