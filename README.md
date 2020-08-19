@@ -30,7 +30,7 @@ One of the easiest ways of getting started is to use Colab, where most of the th
 
 4. Last, we would like to load and save files (e.g. our seismic and interpretation). If you run a script which creates/ downloads files, the files will NOT persist after the allocated instance is shutdown. To save files, you need to permit your Colaboratory instance to read and write files to your Google Drive. Luckily, Colaboratory has a UI for permanently mounting your Google Drive.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on the files icon on the left sidebar:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on the files icon on the left sidebar:
 
 ![alt text](https://github.com/thilowrona/seismic_deep_learning/blob/master/s2.png)
 
