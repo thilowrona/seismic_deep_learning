@@ -6,9 +6,15 @@ Here we share code, tutorials and examples showing how to interpret geological s
 One of the easiest ways of getting started is to use Colab, where most of the things we need (GPU, Cuda, Tensorflow) are already set up, so you won't need to set it up on your own machine. This tutorial, which is based on the excellent https://course.fast.ai/, shows you how to train your first deep learning model to interpret salt in 2-D seismic reflection data.
 
 ### Colab ###
-1. First, you need sign in to your Google account. Without signing in, it won't work. You can sign in [here](https://myaccount.google.com/?utm_source=sign_in_no_continue)
+1. First, you need sign in to your Google account. If you're not signed in, you can sign in [here](https://myaccount.google.com/?utm_source=sign_in_no_continue)
+
+2. Next, head on to the [Colab Welcome Page](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Now, you should see a page looking like this:
 
 
+
+
+
+and click on ‘Github’. In the ‘Enter a GitHub URL or search by organization or user’ line enter ‘fastai/course-v3’. You will see all the courses notebooks listed there. Click on the one you are interested in using.
 
 
 
