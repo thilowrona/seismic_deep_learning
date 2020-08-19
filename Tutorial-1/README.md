@@ -1,6 +1,7 @@
 # Tutorial 1: Salt mapping #
 This tutorial describes how you can map salt bodies in 2-D seismic reflection data using a deep convolutional neural network. 
 
+## Setup ##
 1. First, we go to the [Colab Welcome Page](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). On the Github tab, we search for:
 https://github.com/thilowrona/seismic_deep_learning/blob/master/Tutorial-1/tutorial-1-salt.ipynb
 
@@ -10,7 +11,7 @@ https://github.com/thilowrona/seismic_deep_learning/blob/master/Tutorial-1/tutor
 ```console
  !curl -s https://course.fast.ai/setup/colab | bash
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When you run the first cell, you will face a pop-up saying ‘Warning: This notebook was not authored by Google’; you should click on ‘Run Anyway’ to get rid of the warning.
+When you run the first cell, you will face a pop-up saying ‘Warning: This notebook was not authored by Google’; you should click on ‘Run Anyway’ to get rid of the warning.
 
 4. Next we want to save our notebook. If you click on ‘File’ and then ‘Save’, you will see a pop-up saying ´CANNOT SAVE CHANGES´. Now, click on ‘SAVE A COPY IN DRIVE’. This opens up a new tab with the same file, but this time located in your Drive. If you want to continue working after saving, use the file in the new tab. Your notebook will be saved in a folder called Colab Notebooks in your Google Drive by default.
 
@@ -25,3 +26,4 @@ https://github.com/thilowrona/seismic_deep_learning/blob/master/Tutorial-1/tutor
 root_dir = "drive/My Drive/"
 base_dir = root_dir + 'fastai-v3/'
 ```
+
