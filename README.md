@@ -14,7 +14,7 @@ INCLUDE IMAGE HERE
 
 2. Next, head on to the [Colab Welcome Page](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Now, you should see a page looking like this:
 
-![alt text](https://github.com/thilowrona/seismic_deep_learning/blob/s1.png)
+![alt text](https://github.com/thilowrona/seismic_deep_learning/blob/master/s1.png)
 
 3. Now click on ´Github´ at the top of the orange pop-up and search for XXX. Once you click on the file named XXX, you've opened your first Jupyter notebook! These  notebooks are an awesome combination of code and documentation allowing us work on, describe and share our projects.
 
@@ -36,7 +36,7 @@ INCLUDE IMAGE HERE
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on the files icon on the left sidebar:
 
-![alt text](https://github.com/thilowrona/seismic_deep_learning/blob/s2.png)
+![alt text](https://github.com/thilowrona/seismic_deep_learning/blob/master/s2.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and click on the ´Mount Drive´ icon in the top right corner. After clicking the button you’ll be asked to authorize Colaboratory to access your Google Drive. Once you do, your notebook will automatically mount that drive whenever the runtime is loaded, and the sidebar will show the contents of your drive. Accessing data on your drive is then simply a matter of pointing at the right path. Add the following code snippet at the beginning of every notebook:
 ```console
