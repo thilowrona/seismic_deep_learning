@@ -12,7 +12,7 @@ One of the easiest ways of getting started is to use Colab, where most of the th
 
 ![alt text](https://github.com/thilowrona/seismic_deep_learning/blob/master/s1.png)
 
-Now click on ´Github´ at the top of the orange pop-up and search for XXX. Once you click on the file named XXX, you've opened your first Jupyter notebook! These notebooks are an awesome combination of code and documentation allowing us work on, describe and share our projects.
+ Now click on ´Github´ at the top of the orange pop-up and search for XXX. Once you click on the file named XXX, you've opened your first Jupyter notebook! These  notebooks are an awesome combination of code and documentation allowing us work on, describe and share our projects.
 
 3. Before running anything, you need to tell Colab that would like to use a GPU (important to train our models quickly). This is done by clicking on the ‘Runtime’ tab, selecting ‘Change runtime type’, changing hardware accelerator to ´GPU´ and clicking ´save´. Excellent! Colab is now set up!
 
