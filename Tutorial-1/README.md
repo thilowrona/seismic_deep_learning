@@ -27,3 +27,9 @@ root_dir = "drive/My Drive/"
 base_dir = root_dir + 'fastai-v3/'
 ```
 
+## Load data ##
+The easiest way to access our data is to clone the Git repository by running this command:
+```console
+!git clone https://github.com/thilowrona/seismic_deep_learning
+```
+
