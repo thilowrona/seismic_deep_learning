@@ -1,9 +1,13 @@
 # Deep learning of geological structures from seismic reflection data
 
-Here we share code, tutorials and examples showing how to interpret geological structures (e.g. faults, salt bodies and horizones) in 2-D and/or 3-D seismic reflection data using deep learning. Check XXX for the corresponding manuscript. To get started, you won't need any special hard- or software, just follow the tutorial below.
+Here we share code, tutorials and examples showing how to interpret geological structures (e.g. faults, salt bodies and horizones) in 2-D and/or 3-D seismic reflection data using deep learning (see XXX). To get started, you won't need any special hardware, software, data or experience. Just a bit of time.
 
 ## Getting started
-One of the easiest ways of getting started is to use Colab, where most of the things we need (GPU, Cuda, Tensorflow) are already set up, so you won't need to worry about it. This tutorial, which is based on the excellent https://course.fast.ai/, shows you how to set up everything to train your first deep learning model with seismic data (tutorial-1).
+One of the easiest ways of getting started is to use Colab, where most of the things we need (GPU, Cuda, Tensorflow) are already set up. This tutorial, which is based on the excellent https://course.fast.ai/ by Jeremy Howard, shows you how to set up everything to train your first deep learning model with seismic data (tutorial-1).
+
+INCLUDE IMAGE HERE
+
+
 
 ### Colab ###
 1. First, you will need sign in to your Google account. If you're not signed in, you can sign in [here](https://myaccount.google.com/?utm_source=sign_in_no_continue)
