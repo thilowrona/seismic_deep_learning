@@ -2,6 +2,7 @@
 This tutorial describes how you can map salt bodies in 2-D seismic reflection data using a deep convolutional neural network. 
 
 1. First, we go to the [Colab Welcome Page](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true), where we search for:
+
 https://github.com/thilowrona/seismic_deep_learning/blob/master/Tutorial-1/tutorial-1-salt.ipynb
 on the Github tab.
 
