@@ -6,11 +6,11 @@ https://github.com/thilowrona/seismic_deep_learning/blob/master/Tutorial-1/tutor
 
 2. Again, we need to tell Colab to use a GPU. This is done by clicking on the ‘Runtime’ tab, selecting ‘Change runtime type’, changing hardware accelerator to ´GPU´ and clicking ´save´. Excellent! Colab is now set up!
 
-3. Before using your notebook, you need to install the necessary packages. You can do this by creating a code cell (i.e. clicking ´+ code´ in top left corner), running this command:
+3. Before using your notebook, you need to install the necessary packages. You can do this by running the first code cell containing the command:
 ```console
  !curl -s https://course.fast.ai/setup/colab | bash
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and runnign the cell (i.e. clicking the play symbol or pressing ‘Ctrl+Enter‘). When you run the first cell, you will face a pop-up saying ‘Warning: This notebook was not authored by Google’; you should click on ‘Run Anyway’ to get rid of the warning.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When you run the first cell, you will face a pop-up saying ‘Warning: This notebook was not authored by Google’; you should click on ‘Run Anyway’ to get rid of the warning.
 
 4. Next we want to save our notebook. If you click on ‘File’ and then ‘Save’, you will see a pop-up saying ´CANNOT SAVE CHANGES´. Now, click on ‘SAVE A COPY IN DRIVE’. This opens up a new tab with the same file, but this time located in your Drive. If you want to continue working after saving, use the file in the new tab. Your notebook will be saved in a folder called Colab Notebooks in your Google Drive by default.
 
