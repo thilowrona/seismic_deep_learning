@@ -24,7 +24,7 @@ One of the easiest ways of getting started is to use Colab, where most of the th
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and runnign the cell (i.e. clicking the play symbol or pressing `Ctrl+Enter`).
 
-2. 
+2. When you run the first cell, you will face a pop-up saying ‘Warning: This notebook was not authored by Google’; you should click on ‘Run Anyway’ to get rid of the warning.
 
 
 
