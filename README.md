@@ -6,3 +6,8 @@ Here we are sharing our code, tutorials and examples used to interpret geologica
 
 To get started, you don't need any special hardware, software, data or experience. 
 Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-1/tutorial-1.ipynb).
+
+
+# Tutorials
+
+[tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-1/tutorial-1.ipynb)
