@@ -27,9 +27,9 @@ Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_de
 ## Citation
 If you use this project in your research or wish to refer to the results of the tutorials, please use the following BibTeX entry.
 ```
-@misc{labelme2016,
+@misc{deepseis2020,
   author =       {Thilo Wrona, Indranil Pan, Rebecca E. Bell, Robert L. Gawthorpe, Haakon Fossen and Sascha Brune},
-  title =        {{Deep learning of geological structures in seismic reflection data}},
+  title =        {{Deep learning of geological structures in seismic reflection data: Tutorials}},
   howpublished = {\url{https://github.com/thilowrona/seismic_deep_learning}},
   year =         {2020}
 }
