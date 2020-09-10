@@ -11,7 +11,7 @@ Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_de
 ## Tutorials
 
 ### [Tutorial-1](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-1/tutorial-1.ipynb)
-- This tutorial shows how to map salt in a 2-D seismic section using a 2-D convolutional neural network for pixel-wise classification.
+- This tutorial shows how to map salt in a 2-D seismic image using a 2-D convolutional neural network for pixel-wise classification.
 
 ### [Tutorial-2](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-2/tutorial-2.ipynb)
 - This tutorial describes how to speed up salt mapping using U-Net type convolutional neural networks.
