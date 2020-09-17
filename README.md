@@ -20,8 +20,10 @@ Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_de
 - This tutorial shows how to train with a large number of examples using data generators and data augmentation.
 
 ### [Tutorial-4](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-4/tutorial-4.ipynb)
-- This tutorial explains how we can predict tectonic faults in 3-D seismic reflection data.
+- This tutorial explains how we can predict tectonic faults in a 3-D seismic volume.
 
+### [Tutorial-5](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-5/tutorial-5.ipynb)
+- This tutorial explains how we can train 3-D convolutional neural networks with 3-D labels using a masked loss function.
 
 
 ## Citation
