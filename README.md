@@ -17,16 +17,14 @@ Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_de
 - This tutorial describes how to speed up salt mapping using U-Net type convolutional neural networks.
 
 ### [Tutorial-3](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-3/tutorial-3.ipynb)
-- This tutorial shows how to train with a large number of examples using data generators and data augmentation.
+- This tutorial will show how to map tectonic faults in a 3-D seismic volume.
 
 ### [Tutorial-4](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-4/tutorial-4.ipynb)
-- This tutorial explains how we can predict tectonic faults in a 3-D seismic volume.
+- This tutorial will explain how we can train 3-D convolutional neural networks with 2-D labels using a masked loss function.
 
 ### [Tutorial-5](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-5/tutorial-5.ipynb)
-- This tutorial explains how we can train 3-D convolutional neural networks with 3-D labels using a masked loss function.
+- This tutorial will show how we can train 3-D convolutional neural networks to map stratigraphic horizons.
 
-### [Tutorial-6](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-6/tutorial-6.ipynb)
-- This tutorial explains how we can train 3-D convolutional neural networks to map stratigraphic horizons.
 
 ## Citation
 If you use this project in your research or wish to refer to the results of the tutorials, please use the following BibTeX entry.
