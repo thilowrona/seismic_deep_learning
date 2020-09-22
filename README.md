@@ -25,6 +25,8 @@ Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_de
 ### [Tutorial-5](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-5/tutorial-5.ipynb)
 - This tutorial explains how we can train 3-D convolutional neural networks with 3-D labels using a masked loss function.
 
+### [Tutorial-6](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-6/tutorial-6.ipynb)
+- This tutorial explains how we can train 3-D convolutional neural networks to map stratigraphic horizons.
 
 ## Citation
 If you use this project in your research or wish to refer to the results of the tutorials, please use the following BibTeX entry.
