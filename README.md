@@ -14,7 +14,7 @@ Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_de
 - This tutorial shows how to map salt in a 2-D seismic image using a 2-D convolutional neural network for pixel-wise classification.
 
 ### [Tutorial-2](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-2/tutorial-2.ipynb)
-- This tutorial describes how to speed up salt mapping using U-Net type convolutional neural networks.
+- This tutorial describes how to speed up our mapping using U-Net type convolutional neural networks.
 
 ### [Tutorial-3](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-3/tutorial-3.ipynb)
 - This tutorial will show how to map tectonic faults in a 3-D seismic volume.
