@@ -20,7 +20,7 @@ Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_de
 - This tutorial will show how to map tectonic faults in a 3-D seismic volume.
 
 ### [Tutorial-4](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-4/tutorial-4.ipynb)
-- This tutorial will explain how we can translate our whole workflow to 3-D (data & models).
+- This tutorial will explain how we can translate our whole workflow to 3-D.
 
 ### [Tutorial-5](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-5/tutorial-5.ipynb)
 - This tutorial will show how we can map stratigraphic horizons in a 3-D seismic volume.
