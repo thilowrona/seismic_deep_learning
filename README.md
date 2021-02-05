@@ -1,4 +1,4 @@
-# Deep learning of geological structures from seismic reflection data
+# 3-D seismic interpretation with deep learning: a brief introduction
 
 ![alt text](https://github.com/thilowrona/seismic_deep_learning/blob/master/image.png)
 
