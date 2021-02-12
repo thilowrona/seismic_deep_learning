@@ -10,19 +10,19 @@ Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_de
 
 ## Tutorials
 
-### [Tutorial-1](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-1/tutorial-1.ipynb)
+### [Tutorial 1](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-1/tutorial-1.ipynb)
 - This tutorial shows you how to map salt in a 2-D seismic image using a 2-D convolutional neural network for pixel-wise classification.
 
-### [Tutorial_2](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial_2/tutorial_2.ipynb)
+### [Tutorial 2](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial_2/tutorial_2.ipynb)
 - This tutorial describes how to speed up our mapping using U-Net type convolutional neural networks.
 
-### [Tutorial-3](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-3/tutorial-3.ipynb)
+### [Tutorial 3](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-3/tutorial-3.ipynb)
 - This tutorial shows you how to map tectonic faults in a 3-D seismic volume.
 
-### [Tutorial_4](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial_4/tutorial_4.ipynb)
+### [Tutorial 4](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial_4/tutorial_4.ipynb)
 - This tutorial will explain how to translate our whole workflow to 3-D.
 
-### [Tutorial-5](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-5/tutorial-5.ipynb)
+### [Tutorial 5](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-5/tutorial-5.ipynb)
 - This tutorial will show you how we can map stratigraphic horizons in a 3-D seismic volume.
 
 
