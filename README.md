@@ -8,15 +8,15 @@ To get started, you don't need any special hardware, software, data or experienc
 Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-1/tutorial-1.ipynb).
 
 
-## Tutorials
-### Salt mapping
+# Tutorials
+## Salt mapping
 ### [Tutorial 1](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-1/tutorial-1.ipynb)
 - This tutorial shows you how to map salt in a 2-D seismic image using a 2-D convolutional neural network for pixel-wise classification.
 
 ### [Tutorial 2](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-2/tutorial-2.ipynb)
 - This tutorial describes how to speed up our mapping using U-Net type convolutional neural networks.
 
-### Faults
+## Faults
 ### [Tutorial 3](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-3/tutorial-3.ipynb)
 - This tutorial shows you how to map tectonic faults in a 3-D seismic volume.
 
@@ -26,7 +26,7 @@ Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_de
 ### [Tutorial 5](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-5/tutorial-5.ipynb)
 - This tutorial will hows you how to quantify uncertainty during fault mapping (not ready yet)
 
-### Horizons
+## Horizons
 ### [Tutorial 6](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-6/tutorial-6.ipynb)
 - This tutorial introduces you to mapping horizons in a 3-D seismic volume.
 
@@ -36,7 +36,7 @@ Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_de
 ### [Tutorial 8](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-8/tutorial-8.ipynb)
 - This tutorial will explain how to translate our horizon mapping workflow to 3-D.
 
-### Acoustic impedance
+## Acoustic impedance
 ### [Tutorial 9](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-9/tutorial-9.ipynb)
 - This tutorial will show how to invert synthetic seismic data for rock properties (not ready yet)
 
