@@ -13,17 +13,30 @@ Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_de
 ### [Tutorial 1](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-1/tutorial-1.ipynb)
 - This tutorial shows you how to map salt in a 2-D seismic image using a 2-D convolutional neural network for pixel-wise classification.
 
-### [Tutorial 2](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial_2/tutorial_2.ipynb)
+### [Tutorial 2](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-2/tutorial-2.ipynb)
 - This tutorial describes how to speed up our mapping using U-Net type convolutional neural networks.
 
 ### [Tutorial 3](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-3/tutorial-3.ipynb)
 - This tutorial shows you how to map tectonic faults in a 3-D seismic volume.
 
-### [Tutorial 4](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial_4/tutorial_4.ipynb)
-- This tutorial will explain how to translate our whole workflow to 3-D.
+### [Tutorial 4](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-4/tutorial-4.ipynb)
+- This tutorial will explain how to translate our fault mapping workflow to 3-D.
 
 ### [Tutorial 5](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-5/tutorial-5.ipynb)
-- This tutorial will show you how we can map stratigraphic horizons in a 3-D seismic volume.
+- This tutorial will hows you how to quantify uncertainty during fault mapping (not ready yet)
+
+### [Tutorial 6](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-6/tutorial-6.ipynb)
+- This tutorial introduces you to mapping horizons in a 3-D seismic volume.
+
+### [Tutorial 7](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-7/tutorial-7.ipynb)
+- This tutorial shows you how to improve horizon mapping using a 2-D CNN
+
+### [Tutorial 8](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-8/tutorial-8.ipynb)
+- This tutorial will explain how to translate our horizon mapping workflow to 3-D.
+
+### [Tutorial 9](https://github.com/thilowrona/seismic_deep_learning/blob/master/tutorial-9/tutorial-9.ipynb)
+- This tutorial will show how to invert synthetic seismic data for rock properties (not ready yet)
+
 
 
 ## Citation
