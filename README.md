@@ -42,7 +42,7 @@ Check out [tutorial-1/tutorial-1.ipyng](https://github.com/thilowrona/seismic_de
 
 
 
-## Citation
+# Citation
 If you use this project in your research or wish to refer to the results of the tutorials, please use the following BibTeX entry.
 ```
 @misc{deepseis2020,
