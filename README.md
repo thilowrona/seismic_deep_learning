@@ -1,4 +1,4 @@
-# 3-D seismic interpretation with deep learning: a brief introduction
+# 3-D seismic interpretation with deep learning: a set of Python tutorials
 
 ![alt text](https://github.com/thilowrona/seismic_deep_learning/blob/master/image.png)
 
