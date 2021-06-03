@@ -47,7 +47,7 @@ If you use this project in your research or wish to refer to the results of the 
 ```
 @misc{deepseis2021,
   author =       {Thilo Wrona, Indranil Pan, Rebecca E. Bell, Robert L. Gawthorpe, Haakon Fossen and Sascha Brune},
-  title =        {{3-D seismic interpretation with deep learning: a brief introduction}},
+  title =        {{3-D seismic interpretation with deep learning: a set of Python tutorials}},
   howpublished = {\url{https://github.com/thilowrona/seismic_deep_learning}},
   year =         {2021}
 }
